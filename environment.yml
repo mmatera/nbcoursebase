@@ -10,5 +10,6 @@ dependencies:
   - matplotlib
   - sfepy
   - jupyter_contrib_nbextensions
+  - nbgitpuller
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
