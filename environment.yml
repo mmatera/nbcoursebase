@@ -11,5 +11,6 @@ dependencies:
   - sfepy
   - jupyter_contrib_nbextensions
   - nbgitpuller
+  - mathics3
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
