@@ -13,5 +13,7 @@ dependencies:
   - nbgitpuller
   - mathics3
   - pip:
-    - git+https://github.com/blaze/dask.git#egg=dask[complete]
+    - git+https://github.com/mmatera/mathics#egg=mathics3
+    - git+https://github.com/mathics3/pymathics-asy#egg=pymathics-asy
     - git+https://github.com/mmatera/iwolfram#egg=wolfram-kernel
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
